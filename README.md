@@ -1,4 +1,4 @@
-# AK_medicals
+# HEALTH CENTER
 Languages used: HTML,CSS,JAVA SCRIPT
 
 IDE: VS-Code
